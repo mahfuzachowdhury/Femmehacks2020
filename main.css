@@ -1,0 +1,157 @@
+html {
+  background-image: linear-gradient(#397E82, #364049);
+  height: auto;
+  background-repeat: no-repeat;
+
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #0E3856;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a{
+  background-color: #0E3856;
+}
+
+.flex-container{
+  display: flex;
+  flex-direction: column;
+  border: 6px;
+  background-color: DodgerBlue;
+}
+
+h1 {
+font-family: 'Turret Road', cursive;
+color:#ffffffff;
+font-size: 20px;
+padding-bottom: 0px;
+
+}
+
+h2{
+  font-family: 'Turret Road', cursive;
+  font-size: 20px;
+  padding-bottom: 0px;
+  padding-left: 10px;
+}
+h3{
+color: #7BC244;
+
+}
+
+
+h4{
+  padding: inherit;
+  color: #ffffffff;
+}
+
+input {
+  border-radius: 8px;
+  border-color: solid white;
+  font-family: 'Turret Road', cursive;
+  font-size: 20px;
+  padding-left: -10px;
+  padding-right: -10px;
+  width: 520px;
+  height: 100px;
+  padding-bottom: 10px;
+}
+
+p {
+  font-family: 'Share', cursive;
+    size: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+color: #ffffffff;
+}
+
+body {
+  font-family: 'Share', cursive;
+    size: 100px;
+    color: #73CBC7;
+
+}
+
+a {
+  font-family: 'Share', cursive;
+  font-size: 20px;
+  color: inherit;
+  font-style: normal;
+background-color: transparent;
+}
+
+.rightside{
+padding-right: 115px;
+
+}
+.flex-container {
+  display: flex;
+  flex-direction: column;
+  background-color: DodgerBlue;
+}
+
+.box1{
+  padding-bottom: : 100px;
+  border: solid;
+  border-radius: 8px;
+
+}
+
+.box2{
+  padding-left: 3px;
+  border: solid;
+  border-radius: 8px;
+  border-width: medium;
+  box-sizing: border-box;
+  width: 200px;
+  height: 206px;
+
+font-size: 20px;
+}
+
+.box3{
+  padding-right: 3px;
+  border: solid;
+  border-radius: 8px;
+  border-width: medium;
+  box-sizing: border-box;
+  width: 200px;
+  height: 206px;
+font-size: 20px;
+}
+
+.box4 {
+  padding-bottom: : 100px;
+  border: solid;
+  border-radius: 8px;
+
+}
+
+i {
+  border: solid black;
+  border-color: #73CBC7;
+  border-width: 0 10px 10px 0;
+  display: inline-block;
+  padding: 8px;
+}
+
+.right {
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
